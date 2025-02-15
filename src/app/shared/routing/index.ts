@@ -1,0 +1,1 @@
+export { routeConfigFn } from "./routing.config";

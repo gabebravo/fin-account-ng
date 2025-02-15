@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "target": "ES2017",
+        "module": "ES2022",
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "sourceMap": true,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "lib": [
+            "ES2016",
+            "DOM"
+        ]
+    },
+    "include": [
+        "./src/**/*.ts",
+        "./typings/index.d.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

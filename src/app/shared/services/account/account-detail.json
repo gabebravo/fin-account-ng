@@ -1,0 +1,88 @@
+[
+    {
+      "accountId": 1,
+      "accountName": "Checking Account",
+      "ownerName": "John Doe",
+      "ownerId": 1,
+      "checkingAmount": 1500,
+      "savingsAmount": 2000,
+      "interestRate": 1.5,
+      "createdDate": "2022-01-15",
+      "status": "Active",
+      "ownerBirthdate": "1985-06-15",
+      "ficoScore": 720,
+      "activityTimeline": [
+        { "type": "deposit", "amount": 500, "date": "2023-01-01" },
+        { "type": "withdrawal", "amount": 200, "date": "2023-02-15" }
+      ]
+    },
+    {
+      "accountId": 2,
+      "accountName": "Savings Account",
+      "ownerName": "Jane Smith",
+      "ownerId": 2,
+      "checkingAmount": 800,
+      "savingsAmount": 5000,
+      "interestRate": 2.0,
+      "createdDate": "2021-11-05",
+      "status": "Active",
+      "ownerBirthdate": "1990-08-20",
+      "ficoScore": 740,
+      "activityTimeline": [
+        { "type": "deposit", "amount": 1000, "date": "2023-01-10" },
+        { "type": "withdrawal", "amount": 500, "date": "2023-03-05" }
+      ]
+    },
+    {
+      "accountId": 3,
+      "accountName": "Business Account",
+      "ownerName": "ACME Corp",
+      "ownerId": 3,
+      "checkingAmount": 10000,
+      "savingsAmount": 15000,
+      "interestRate": 1.8,
+      "createdDate": "2023-03-20",
+      "status": "Inactive",
+      "ownerBirthdate": null,
+      "ficoScore": 800,
+      "activityTimeline": [
+        { "type": "deposit", "amount": 5000, "date": "2023-04-01" },
+        { "type": "withdrawal", "amount": 2000, "date": "2023-05-10" }
+      ]
+    },
+    {
+      "accountId": 4,
+      "accountName": "Premium Account",
+      "ownerName": "John Doe",
+      "ownerId": 1,
+      "checkingAmount": 2500,
+      "savingsAmount": 3000,
+      "interestRate": 1.7,
+      "createdDate": "2022-05-10",
+      "status": "Active",
+      "ownerBirthdate": "1985-06-15",
+      "ficoScore": 720,
+      "activityTimeline": [
+        { "type": "deposit", "amount": 1000, "date": "2023-01-20" },
+        { "type": "withdrawal", "amount": 500, "date": "2023-03-25" }
+      ]
+    },
+    {
+      "accountId": 5,
+      "accountName": "Gold Savings",
+      "ownerName": "Jane Smith",
+      "ownerId": 2,
+      "checkingAmount": 1000,
+      "savingsAmount": 6000,
+      "interestRate": 2.5,
+      "createdDate": "2021-12-12",
+      "status": "Active",
+      "ownerBirthdate": "1990-08-20",
+      "ficoScore": 740,
+      "activityTimeline": [
+        { "type": "deposit", "amount": 2000, "date": "2023-02-15" },
+        { "type": "withdrawal", "amount": 1000, "date": "2023-04-10" }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "accountId": 1,
+      "accountName": "Checking Account",
+      "ownerName": "John Doe",
+      "ownerId": 1,
+      "checkingAmount": 1500,
+      "savingsAmount": 2000,
+      "interestRate": 1.5,
+      "createdDate": "2022-01-15",
+      "status": "Active"
+    },
+    {
+      "accountId": 2,
+      "accountName": "Savings Account",
+      "ownerName": "Jane Smith",
+      "ownerId": 2,
+      "checkingAmount": 800,
+      "savingsAmount": 5000,
+      "interestRate": 2.0,
+      "createdDate": "2021-11-05",
+      "status": "Active"
+    },
+    {
+      "accountId": 3,
+      "accountName": "Business Account",
+      "ownerName": "ACME Corp",
+      "ownerId": 3,
+      "checkingAmount": 10000,
+      "savingsAmount": 15000,
+      "interestRate": 1.8,
+      "createdDate": "2023-03-20",
+      "status": "Inactive"
+    },
+    {
+      "accountId": 4,
+      "accountName": "Premium Account",
+      "ownerName": "John Doe",
+      "ownerId": 1,
+      "checkingAmount": 2500,
+      "savingsAmount": 3000,
+      "interestRate": 1.7,
+      "createdDate": "2022-05-10",
+      "status": "Active"
+    },
+    {
+      "accountId": 5,
+      "accountName": "Gold Savings",
+      "ownerName": "Jane Smith",
+      "ownerId": 2,
+      "checkingAmount": 1000,
+      "savingsAmount": 6000,
+      "interestRate": 2.5,
+      "createdDate": "2021-12-12",
+      "status": "Active"
+    },
+    {
+      "accountId": 6,
+      "accountName": "Corporate Checking",
+      "ownerName": "ACME Corp",
+      "ownerId": 3,
+      "checkingAmount": 20000,
+      "savingsAmount": 5000,
+      "interestRate": 1.2,
+      "createdDate": "2023-06-01",
+      "status": "Active"
+    },
+    {
+      "accountId": 7,
+      "accountName": "Retirement Fund",
+      "ownerName": "Alice Brown",
+      "ownerId": 4,
+      "checkingAmount": 1500,
+      "savingsAmount": 20000,
+      "interestRate": 3.0,
+      "createdDate": "2020-07-15",
+      "status": "Active"
+    },
+    {
+      "accountId": 8,
+      "accountName": "Emergency Fund",
+      "ownerName": "Alice Brown",
+      "ownerId": 4,
+      "checkingAmount": 500,
+      "savingsAmount": 8000,
+      "interestRate": 1.5,
+      "createdDate": "2021-02-10",
+      "status": "Active"
+    },
+    {
+      "accountId": 9,
+      "accountName": "Vacation Savings",
+      "ownerName": "Jane Smith",
+      "ownerId": 2,
+      "checkingAmount": 300,
+      "savingsAmount": 7000,
+      "interestRate": 1.8,
+      "createdDate": "2022-03-22",
+      "status": "Active"
+    },
+    {
+      "accountId": 10,
+      "accountName": "Investment Fund",
+      "ownerName": "John Doe",
+      "ownerId": 1,
+      "checkingAmount": 4000,
+      "savingsAmount": 12000,
+      "interestRate": 2.2,
+      "createdDate": "2020-08-01",
+      "status": "Active"
+    }
+  ]
+  
